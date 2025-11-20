@@ -1,0 +1,30 @@
+PYTHON|Which operator is used for exponentiation?|^|**|//|exp|b
+PYTHON|What is the output of print(10 // 3)?|3.33|3|3.0|1|b
+PYTHON|Which collection is ordered and immutable?|List|Set|Dictionary|Tuple|d
+PYTHON|How do you insert comments in Python code?|//|/* */|#||c
+PYTHON|Which function converts a string to an integer?|str()|int()|float()|char()|b
+PYTHON|What is the result of logical operator (True and False)?|True|False|None|Error|b
+PYTHON|Which keyword is used to import a module?|include|using|import|from|c
+PYTHON|What is the correct file extension for Python files?|.pyt|.pt|.py|.p|c
+PYTHON|Which method removes whitespace from the beginning and end?|strip()|trim()|cut()|delete()|a
+PYTHON|What index is used to access the last element of a list?|0|1|-1|len()|c
+DSA|What is the time complexity of accessing an array element?|O(n)|O(log n)|O(1)|O(n^2)|c
+DSA|Which data structure is used in Recursion?|Queue|Stack|Array|Tree|b
+DSA|In a Binary Search Tree, values in the left node are?|Greater than root|Equal to root|Less than root|Random|c
+DSA|Which sorting algorithm has the best average case?|Bubble Sort|Merge Sort|Selection Sort|Insertion Sort|b
+DSA|What data structure is best for a First-In-First-Out (FIFO) system?|Stack|Queue|Graph|Heap|b
+DSA|Which traversal visits the root node first?|In-order|Post-order|Pre-order|Level-order|c
+DSA|What is a complete binary tree?|All levels filled except last|A tree with 2 nodes|A tree with 0 nodes|A sorted tree|a
+DSA|Which algorithm is used to find the shortest path in a graph?|Dijkstra|Merge Sort|Binary Search|DFS|a
+DSA|What is the worst-case complexity of Bubble Sort?|O(n)|O(log n)|O(n^2)|O(n log n)|c
+DSA|A Circular Linked List has no?|Head|Tail|Null pointer|Data|c
+DBMS|Which SQL command modifies existing data?|ALTER|MODIFY|UPDATE|CHANGE|c
+DBMS|What does DDL stand for?|Data Definition Language|Data Derivation Language|Dynamic Data Language|Detailed Data Language|a
+DBMS|Which constraint ensures all values in a column are different?|NOT NULL|UNIQUE|DEFAULT|CHECK|b
+DBMS|Which clause is used to filter groups?|WHERE|HAVING|GROUP BY|ORDER BY|b
+DBMS|What is a Foreign Key?|A primary key in another table|A unique key|A key for encryption|A null key|a
+DBMS|Which command removes all rows but keeps the table structure?|DELETE|DROP|REMOVE|TRUNCATE|d
+DBMS|Which aggregate function returns the average value?|COUNT()|SUM()|AVG()|MAX()|c
+DBMS|What property ensures transactions are all or nothing?|Atomicity|Consistency|Isolation|Durability|a
+DBMS|Which join returns all records from the left table?|INNER JOIN|RIGHT JOIN|LEFT JOIN|OUTER JOIN|c
+DBMS|What is the default sorting order of ORDER BY?|DESC|ASC|Random|None|b
